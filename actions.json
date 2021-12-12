@@ -1,0 +1,20 @@
+{
+    "joke chuck norris": {
+        "action": "joke"
+    },
+    "joke of the day": {
+        "action": "joke"
+    },
+    "random joke": {
+        "action": "joke"
+    },
+    "stop listening": {
+        "action": "stop"
+    },
+    "quit listening": {
+        "action": "stop"
+    },
+    "go to sleep": {
+        "action": "stop"
+    }
+}

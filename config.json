@@ -1,0 +1,22 @@
+{
+    "owner": "chris",
+    "self": "dummy",
+    "voice": 1,
+    "activation_phrases": [
+        "hello {self}",
+        "hey {self}",
+        "listen {self}",
+        "ok {self}",
+        "hi {self}"
+    ],
+    "activation_responses": [
+        "what's up, {owner}",
+        "hey, {owner}",
+        "What can I help you with, {owner}",
+        "How may I be of service, {owner}"
+    ],
+    "subscriptions": [
+        "joke",
+        "stop"
+    ]
+}
