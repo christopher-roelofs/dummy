@@ -1,5 +1,5 @@
 # dummy
-Quick and dirty voice command
+Quick and dirty voice command. The name dummy is a nod to the robot in Iron Man (Dum-E).
 
 * Owner and self can be customized in config.json
 * Activation phrases can be customized. These are used to get it to listen.
